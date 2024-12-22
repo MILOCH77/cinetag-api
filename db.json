@@ -1,33 +1,21 @@
 { "videos":
     [
-        {
-            "id": 1,
-            "titulo": "O labirinto do Logcat",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-            "link": "https://www.youtube.com/embed/ypvGqZGJBls"
-        },
-        {
-            "id": 2,
-            "titulo": "Um componente no espaço",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-            "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
-        },
       {
-        "id": 3,
-        "titulo": "O poderoso JavaScript",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-        "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+        "id": 1,
+        "titulo": "DJ VJ Magrao Videomix Volume 3 2005",
+        "capa": "http://192.168.0.178:3000/imagens/MagraoVideomix3.jpg",
+        "link": "https://www.youtube.com/embed/m3cBXqe39VQ?si=WjlVUq3c39ZeBuen"
       },
       {
-        "id": 4,
-        "titulo": "Dart, o Caçador de Andróides",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-        "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+        "id": 2,
+        "titulo": "DJ VJ Magrao Mega Dance Videomix Volume 7 2010 Part 2",
+        "capa": "http://192.168.0.178:3000/imagens/VJMagraoMegaDanceVideomixPart2.jpg",
+        "link": "https://www.youtube.com/embed/LHPMWSyunwU?si=pKf4Xh3k1KMq_Twr"
       },
               {
-        "id": 5,
-        "titulo": "YouTube video player",
-        "capa": "http://192.168.0.178:3000/imagens/maxresdefault.jpg",
+        "id": 3,
+        "titulo": "As mais tocadas em 1985",
+        "capa": "http://192.168.0.178:3000/imagens/LentasTocadas1985.jpg",
         "link": "https://www.youtube.com/embed/7CNnqCCsELA?si=W3bNN7wJmdFB7Rl-"
       }
     ]
