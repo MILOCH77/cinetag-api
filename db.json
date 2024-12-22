@@ -2,39 +2,39 @@
     [
         {
         "id": 1,
-        "titulo": "DJ VJ Magrao Videomix Volume 3 2005",
-        "capa": "http://192.168.0.178:3000/imagens/MagraoVideomix3.jpg",
-        "link": "https://www.youtube.com/embed/m3cBXqe39VQ?si=WjlVUq3c39ZeBuen"
+        "titulo": "Moana 2",
+        "capa": "http://192.168.0.178:3000/imagens/Moana2.jpg",
+        "link": "http://asd21.cc/movie/6484289671/Ab2024/297773.mp4"
         },
         {
         "id": 2,
-        "titulo": "DJ VJ Magrao Mega Dance Videomix Volume 7 2010 Part 2",
-        "capa": "http://192.168.0.178:3000/imagens/VJMagraoMegaDanceVideomixPart2.jpg",
-        "link": "https://www.youtube.com/embed/LHPMWSyunwU?si=pKf4Xh3k1KMq_Twr"
+        "titulo": "Senhor dos Anéis: A Guerra dos Rohirrim",
+        "capa": "http://192.168.0.178:3000/imagens/AGuerraDosRohirrim.jpg",
+        "link": "http://asd21.cc/movie/6484289671/Ab2024/297774.mp4"
         },
         {
         "id": 3,
-        "titulo": "As mais tocadas em 1985",
-        "capa": "http://192.168.0.178:3000/imagens/LentasTocadas1985.jpg",
-        "link": "https://www.youtube.com/embed/7CNnqCCsELA?si=W3bNN7wJmdFB7Rl-"
+        "titulo": "Wicked",
+        "capa": "http://192.168.0.178:3000/imagens/Wicked.jpg",
+        "link": "http://asd21.cc/movie/6484289671/Ab2024/297779.mp4"
         },
         {
         "id": 4,
-        "titulo": "DJ VJ Magrão 90's VIDEOMIX! 157 Hits!",
-        "capa": "http://192.168.0.178:3000/imagens/VjMagrao90Videomix.jpg",
-        "link": "https://www.youtube.com/embed/6Pv3HUcTels?si=62e_Vnx2xy77aUFJ"
+        "titulo": "O Gladiador 2",
+        "capa": "http://192.168.0.178:3000/imagens/OGladiador2.jpg",
+        "link": "http://asd21.cc/movie/6484289671/Ab2024/297772.mp4"
         },
         {
         "id": 5,
-        "titulo": "Os embalos de sábado a noite",
-        "capa": "http://192.168.0.178:3000/imagens/OsEmbalosDeSabado.jpg",
-        "link": "http://asd21.cc/movie/6484289671/Ab2024/299812.mp4"
+        "titulo": "Mufasa: O Rei Leão",
+        "capa": "http://192.168.0.178:3000/imagens/Mufasa.jpg",
+        "link": "http://asd21.cc/movie/6484289671/Ab2024/300137.mp4"
         },
          {
         "id": 6,
-        "titulo": "Os embalos de sábado a noite",
-        "capa": "http://192.168.0.178:3000/imagens/OsEmbalosDeSabado.jpg",
-        "link": "http://38.99.239.215/deliver/299812.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjAwMDEiLCJleHAiOjE3MzQ5MDA4MzV9.eyJ1YyI6Ik5qUTROREk0T1RZM01RPT0iLCJwYyI6IlFXSXlNREkwIiwic3QiOiIyOTk4MTIubXA0IiwiaXAiOiIxODkuNS4xNzkuNDAifQ.MgsIRYDj7YvIjrM2vtRx_BHdLi_fV2G8afattEOTUEc&uc=NjQ4NDI4OTY3MQ==&pc=QWIyMDI0"
+        "titulo": "Kraven: O Caçador",
+        "capa": "http://192.168.0.178:3000/imagens/Kraven.jpg",
+        "link": "http://asd21.cc/movie/6484289671/Ab2024/299623.mp4"
         }
     ]
 }
