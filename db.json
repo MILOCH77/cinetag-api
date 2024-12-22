@@ -27,7 +27,7 @@
               {
         "id": 5,
         "titulo": "YouTube video player",
-        "capa": "http://192.168.0.119:3000/imagens/maxresdefault.jpg",
+        "capa": "http://192.168.0.178:3000/imagens/maxresdefault.jpg",
         "link": "https://www.youtube.com/embed/7CNnqCCsELA?si=W3bNN7wJmdFB7Rl-"
       }
     ]
