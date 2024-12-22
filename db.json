@@ -23,6 +23,12 @@
         "titulo": "DJ VJ Magrão 90's VIDEOMIX! 157 Hits!",
         "capa": "http://192.168.0.178:3000/imagens/VjMagrao90Videomix.jpg",
         "link": "https://www.youtube.com/embed/6Pv3HUcTels?si=62e_Vnx2xy77aUFJ"
+        },
+        {
+        "id": 5,
+        "titulo": "Os embalos de sábado a noite",
+        "capa": "http://192.168.0.178:3000/imagens/OsEmbalosDeSabado.jpg",
+        "link": "http://asd21.cc/movie/6484289671/Ab2024/299812.mp4"
         }
     ]
 }
