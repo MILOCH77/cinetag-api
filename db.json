@@ -68,9 +68,9 @@
         },
         {
         "id": 12,
-        "titulo": "O homem que copiava",
-        "capa": "https://i.ytimg.com/vi/fjT-CtR4AWs/maxresdefault.jpg",
-        "link": "https://www.youtube.com/embed/fjT-CtR4AWs?si=zbJBpYubN-e3IkWa"
+        "titulo": "Teste playlist",
+        "capa": "https://i.ytimg.com/vi/s_hugulv9m4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgGyh_MA8=&rs=AOn4CLBOqIj1WQHlnHaeEsmLbeDaaQXEJg",
+        "link": "https://www.youtube.com/playlist?list=PLX86-3hh_ucasJOLCTMOnJAoZEKaeZkkG"
         }
     ]
 }
