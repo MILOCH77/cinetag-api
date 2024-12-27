@@ -61,22 +61,16 @@
         "link": "https://www.youtube.com/embed/MuFuJ5TNDXE?si=-Y3AdRhMyhDK1xEb"
         },
         {
-        "id": 12,
-        "titulo": "Roupa Nova - 40 Anos",
-        "capa": "https://i.ytimg.com/vi/i7j0bw5TonI/maxresdefault.jpg",
-        "link": "https://www.youtube.com/embed/i7j0bw5TonI?si=zFTC72My-Jc_Ahfg"
-        },
-        {
         "id": 11,
         "titulo": "Don & Juan - Nos bares da vida",
         "capa": "https://i.ytimg.com/vi/N4xGEMeCbZo/maxresdefault.jpg",
         "link": "https://www.youtube.com/embed/N4xGEMeCbZo?si=w_zawuh5h-Q7M-f3"
         },
         {
-        "id": 17,
-        "titulo": "Magníficos - DVD na praia",
-        "capa": "https://i.ytimg.com/vi/XIt7hxLc_Ek/maxresdefault.jpg",
-        "link": "https://www.youtube.com/embed/XIt7hxLc_Ek?si=TUucm1rgcLyP3IZo"
+        "id": 12,
+        "titulo": "Roupa Nova - 40 Anos",
+        "capa": "https://i.ytimg.com/vi/i7j0bw5TonI/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/i7j0bw5TonI?si=zFTC72My-Jc_Ahfg"
         },
         {
         "id": 13,
@@ -85,22 +79,28 @@
         "link": "https://www.youtube.com/embed/FVv591CPi-U?si=aM8Dw_t9DHNROksR"
         },
         {
-        "id": 15,
-        "titulo": "Calcinha Preta - Atemporal 2024",
-        "capa": "https://i.ytimg.com/vi/esn6E1nPW_c/maxresdefault.jpg",
-        "link": "https://www.youtube.com/embed/esn6E1nPW_c?si=C1jjX3LFl-PnDHbO"
-        },
-        {
         "id": 14,
         "titulo": "Calcinha Preta - Como não amar 2021",
         "capa": "https://i.ytimg.com/vi/0vc8s8JQbrQ/maxresdefault.jpg",
         "link": "https://www.youtube.com/embed/0vc8s8JQbrQ?si=106jULon5mCjtg5U"
         },
         {
+        "id": 15,
+        "titulo": "Calcinha Preta - Atemporal 2024",
+        "capa": "https://i.ytimg.com/vi/esn6E1nPW_c/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/esn6E1nPW_c?si=C1jjX3LFl-PnDHbO"
+        },
+        {
         "id": 16,
         "titulo": "Magníficos - DVD Vol 1",
         "capa": "https://i.ytimg.com/vi/zEFQcGWTvO4/hqdefault.jpg",
         "link": "https://www.youtube.com/embed/zEFQcGWTvO4?si=iKpN_88Im7QlCcy5"
+        },
+        {
+        "id": 17,
+        "titulo": "Magníficos - DVD na praia",
+        "capa": "https://i.ytimg.com/vi/XIt7hxLc_Ek/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/XIt7hxLc_Ek?si=TUucm1rgcLyP3IZo"
         },
         {
         "id": 18,
