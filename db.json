@@ -110,36 +110,72 @@
         },
         {
         "id": 19,
+        "titulo": "Sorriso Maroto - Eu gosto",
+        "capa": "https://i.ytimg.com/vi/VrTm4M6qAA4/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/VrTm4M6qAA4?si=s9w5rbxCBWpw3O0I"
+        },
+        {
+        "id": 20,
+        "titulo": "Thiaguinho - Meu nome é Thiago André",
+        "capa": "https://i.ytimg.com/vi/uyc-CGQ421E/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/uyc-CGQ421E?si=NSpZsx7m-28tFoSW"
+        },
+        {
+        "id": 21,
+        "titulo": "Live Irmãos - Alexandre Pires e Seu Jorge",
+        "capa": "https://i.ytimg.com/vi/PubdXt8Qy-I/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/PubdXt8Qy-I?si=TP1kidQvXao-U5wX"
+        },
+        {
+        "id": 22,
+        "titulo": "Gigantes do Samba",
+        "capa": "https://i.ytimg.com/vi/UPxGfLnUVkA/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/UPxGfLnUVkA?si=_vfUr-x3ncSMZAce"
+        },
+        {
+        "id": 23,
+        "titulo": "Sambô - Sambô ao Vivo",
+        "capa": "https://i.ytimg.com/vi/n_QKFb4OpNo/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/n_QKFb4OpNo?si=Qgqjti-RcyJeswQC"
+        },
+        {
+        "id": 24,
+        "titulo": "Ferrugem - 10 anos",
+        "capa": "https://i.ytimg.com/vi/kMnaZAgJGVU/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/kMnaZAgJGVU?si=P-vA1jloSrSo_Ima"
+        },
+        {
+        "id": 25,
         "titulo": "VJ DJ Magrão 80´s Megamix",
         "capa": "https://i.ytimg.com/vi/--p4GrNCBT0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgMihnMA8=&rs=AOn4CLAlSsRe4dh0T296cLq3pYaRA8KTrA",
         "link": "https://www.youtube.com/embed/--p4GrNCBT0?si=G5HreszpQDdmLp1O"
         },
         {
-        "id": 20,
+        "id": 26,
         "titulo": "VJ DJ Magrão 80´s Megamix Vol 2",
         "capa": "https://i.ytimg.com/vi/Q_Uo8VU8YXI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgTCg0MA8=&rs=AOn4CLBO4k8OE38v0amsgJr6cRnjOwI0Ew",
         "link": "https://www.youtube.com/embed/Q_Uo8VU8YXI?si=DE2nWwUEbt9nixVD"
         },
         {
-        "id": 21,
+        "id": 27,
         "titulo": "VJ DJ Magrão 90´s Megamix",
         "capa": "https://i.ytimg.com/vi/NLt-ifk0GS0/hqdefault.jpg",
         "link": "https://www.youtube.com/embed/NLt-ifk0GS0?si=Q4h8iuA3zczSvNZ0"
         },
         {
-        "id": 22,
+        "id": 28,
         "titulo": "VJ DJ Magrão 90´s Megamix Vol 2",
         "capa": "https://i.ytimg.com/vi/6Pv3HUcTels/maxresdefault.jpg",
         "link": "https://www.youtube.com/embed/6Pv3HUcTels?si=7Qpybme1FuV9Bznb"
         },
         {
-        "id": 23,
+        "id": 29,
         "titulo": "VJ DJ Magrão Festa Mix Vol 1",
         "capa": "https://i.ytimg.com/vi/ODkkQ4_yHzk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFIgXihlMA8=&rs=AOn4CLB5zPMhODiAPmuU6GOlslG7EEb4DQ",
         "link": "https://www.youtube.com/embed/ODkkQ4_yHzk?si=Zxhwh0PNeODs6Rzy"
         },
         {
-        "id": 24,
+        "id": 30,
         "titulo": "VJ DJ Magrão Festa Mix Vol 3",
         "capa": "https://i.ytimg.com/vi/JHzf6T0Rrpw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGE4gWihlMA8=&rs=AOn4CLBbBSKvmcUX6mVwdzTdxBejULOPNw",
         "link": "https://www.youtube.com/embed/xUQbtuVH_uU?si=rnVcos-c3J2BEp7V"
