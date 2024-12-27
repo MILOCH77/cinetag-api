@@ -38,39 +38,75 @@
         },
         {
         "id": 7,
-        "titulo": "Slow Burn 💜 - Love & Relaxing",
-        "capa": "https://i.ytimg.com/vi/x6XbGazOWv4/maxresdefault.jpg",
-        "link": "https://www.youtube.com/embed/x6XbGazOWv4?si=tbyVLhsa93KVAsY3"
+        "titulo": "Acústico MTV - Sandy & Júnior",
+        "capa": "https://i.ytimg.com/vi/PJ-gKCO55zM/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/PJ-gKCO55zM?si=xiEbJwAXz7uJa-8C"
         },
         {
         "id": 8,
-        "titulo": "Steve Jobs O Filme",
-        "capa": "https://i.ytimg.com/vi/wnVTs3C4Af8/maxresdefault.jpg",
-        "link": "https://www.youtube.com/embed/wnVTs3C4Af8?si=r4Pv6ux7hUPkKxxE"
+        "titulo": "Jorge e Matheus - Simples assim",
+        "capa": "https://i.ytimg.com/vi/LS_IsZnbi8o/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/LS_IsZnbi8o?si=RqlqypPlnUh3UI9j"
         },
         {
         "id": 9,
-        "titulo": "Tim Maia",
-        "capa": "https://i.ytimg.com/vi/NlNEnYI_WJs/hqdefault.jpg",
-        "link": "https://www.youtube.com/embed/NlNEnYI_WJs?si=teHR3QShvu4rZz9K"
+        "titulo": "Luana Prado - Raiz",
+        "capa": "https://i.ytimg.com/vi/Z_gJRWg6gyY/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/Z_gJRWg6gyY?si=lQqBIENqjTr6jR_x"
         },
         {
         "id": 10,
-        "titulo": "O Auto da Compadecida",
-        "capa": "https://i.ytimg.com/vi/mNHXQ8BafUE/hqdefault.jpg",
-        "link": "https://www.youtube.com/embed/mNHXQ8BafUE?si=woUPUO-e5XgYOAz5"
-        },
-        {
-        "id": 11,
-        "titulo": "Entrevista com Deus",
-        "capa": "https://i.ytimg.com/vi/9_3tlwbnpGU/maxresdefault.jpg",
-        "link": "https://www.youtube.com/embed/9_3tlwbnpGU?si=dArrIwihPSEoJzcY"
+        "titulo": "MM & MM - Modão das Patroas",
+        "capa": "https://i.ytimg.com/vi/MuFuJ5TNDXE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgRyhDMA8=&rs=AOn4CLAdbZJS_maw1O5sc4LCsHizBVCmuA",
+        "link": "https://www.youtube.com/embed/MuFuJ5TNDXE?si=-Y3AdRhMyhDK1xEb"
         },
         {
         "id": 12,
-        "titulo": "Teste playlist",
-        "capa": "https://i.ytimg.com/vi/s_hugulv9m4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgGyh_MA8=&rs=AOn4CLBOqIj1WQHlnHaeEsmLbeDaaQXEJg",
-        "link": "https://www.youtube.com/playlist?list=PLX86-3hh_ucasJOLCTMOnJAoZEKaeZkkG"
+        "titulo": "Roupa Nova - 40 Anos",
+        "capa": "https://i.ytimg.com/vi/i7j0bw5TonI/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/i7j0bw5TonI?si=zFTC72My-Jc_Ahfg"
+        },
+        {
+        "id": 11,
+        "titulo": "Don & Juan - Nos bares da vida",
+        "capa": "https://i.ytimg.com/vi/N4xGEMeCbZo/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/N4xGEMeCbZo?si=w_zawuh5h-Q7M-f3"
+        },
+        {
+        "id": 17,
+        "titulo": "Magníficos - DVD na praia",
+        "capa": "https://i.ytimg.com/vi/XIt7hxLc_Ek/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/XIt7hxLc_Ek?si=TUucm1rgcLyP3IZo"
+        },
+        {
+        "id": 13,
+        "titulo": "Calcinha Preta - Vol 1 e 2",
+        "capa": "https://i.ytimg.com/vi/FVv591CPi-U/hqdefault.jpg",
+        "link": "https://www.youtube.com/embed/FVv591CPi-U?si=aM8Dw_t9DHNROksR"
+        },
+        {
+        "id": 15,
+        "titulo": "Calcinha Preta - Atemporal 2024",
+        "capa": "https://i.ytimg.com/vi/esn6E1nPW_c/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/esn6E1nPW_c?si=C1jjX3LFl-PnDHbO"
+        },
+        {
+        "id": 14,
+        "titulo": "Calcinha Preta - Como não amar 2021",
+        "capa": "https://i.ytimg.com/vi/0vc8s8JQbrQ/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/0vc8s8JQbrQ?si=106jULon5mCjtg5U"
+        },
+        {
+        "id": 16,
+        "titulo": "Magníficos - DVD Vol 1",
+        "capa": "https://i.ytimg.com/vi/zEFQcGWTvO4/hqdefault.jpg",
+        "link": "https://www.youtube.com/embed/zEFQcGWTvO4?si=iKpN_88Im7QlCcy5"
+        },
+        {
+        "id": 18,
+        "titulo": "Batista e Edson Lima - Live",
+        "capa": "https://i.ytimg.com/vi/JJxpHbf7PqA/maxresdefault.jpg",
+        "link": "https://www.youtube.com/embed/JJxpHbf7PqA?si=jWDRR1q0v6-vKuH5"
         }
     ]
 }
