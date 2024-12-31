@@ -179,6 +179,42 @@
         "titulo": "VJ DJ Magrão Festa Mix Vol 3",
         "capa": "https://i.ytimg.com/vi/JHzf6T0Rrpw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGE4gWihlMA8=&rs=AOn4CLBbBSKvmcUX6mVwdzTdxBejULOPNw",
         "link": "https://www.youtube.com/embed/xUQbtuVH_uU?si=rnVcos-c3J2BEp7V"
+        },
+        {
+        "id": 31,
+        "titulo": "RETROCLASICOS 🔊 ROCK POP RAP 90-00🔊",
+        "capa": "https://i.ytimg.com/vi/MKT2FDD5QQ8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUChEMA8=&rs=AOn4CLBJqwnGYo8Aplk14LlIdaSy4T_wWA",
+        "link": "https://youtu.be/MKT2FDD5QQ8?si=dEdAlwFY_isaIjl1"
+        },
+        {
+        "id": 32,
+        "titulo": "Acústico MTV - Cássia Eller",
+        "capa": "https://i.ytimg.com/vi/KflBDWsy2dw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGuBIACugKKAgwIABABGH8gLCgUMA8=&rs=AOn4CLDRrdESClmIt5I-FuLf7WfBkVUudA",
+        "link": "https://www.youtube.com/embed/KflBDWsy2dw?si=-RZL1Mr8GrSVCIf9"
+        },
+        {
+        "id": 33,
+        "titulo": "Acústico MTV - Legião Urbana",
+        "capa": "https://i.ytimg.com/vi/PVlmXiNl0Oc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGH8gRSggMA8=&rs=AOn4CLCurGSoBs94Fj-CRjdJt47v7JhRcg",
+        "link": "https://www.youtube.com/embed/PVlmXiNl0Oc?si=kLUepD9i5MF-Tfxy"
+        },
+        {
+        "id": 34,
+        "titulo": "Acústico MTV - Ira",
+        "capa": "https://i.ytimg.com/vi/5SUFrXRHu40/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGeBIACuAKKAgwIABABGH8gLShNMA8=&rs=AOn4CLBW1Q-Q9W7bLwQepTSAlMuayqNzzw",
+        "link": "https://www.youtube.com/embed/5SUFrXRHu40?si=DDAWBG0j0ECdkXef"
+        },
+        {
+        "id": 35,
+        "titulo": "Acústico MTV - Capital Inicial",
+        "capa": "https://i.ytimg.com/vi/uSMmbICAC8s/hqdefault.jpg",
+        "link": "https://www.youtube.com/embed/uSMmbICAC8s?si=etFmWcfN0ukG_BHp"
+        },
+         {
+        "id": 36,
+        "titulo": "Acústico MTV - Eng do Hawaii",
+        "capa": "https://i.ytimg.com/vi/9BgiIfaXTtA/hqdefault.jpg",
+        "link": "https://www.youtube.com/embed/9BgiIfaXTtA?si=ScXJoU-D0bzcG8N5"
         }
     ]
 }
